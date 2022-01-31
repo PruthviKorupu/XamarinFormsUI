@@ -1,0 +1,29 @@
+D:\Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+D:\Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+D:\Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\ref\Phoneword.dll
+D:\Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\ref\Phoneword.dll
+D:\Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+D:\New folder\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+D:\New folder\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+D:\New folder\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\ref\Phoneword.dll
+D:\New folder\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\ref\Phoneword.dll
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+D:\New folder\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
